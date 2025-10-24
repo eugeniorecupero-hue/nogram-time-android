@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoGram Time</string>
+    <string name="app_subtitle">Take control of your Instagram usage</string>
+    <string name="block_instagram">Block Instagram</string>
+    <string name="toggle_description">Enable to block Instagram access on this device</string>
+    <string name="run_diagnostics">Run Diagnostics</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="install_instagram">Install Instagram</string>
+    <string name="version_info">v1.0 | Built with ❤️</string>
+    <string name="instagram_blocked_message">Instagram blocked (reason: %s)</string>
+</resources>
